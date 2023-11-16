@@ -12,11 +12,11 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
+<h4><font size="2"><a href="https://youtube.com/@FJ_CHANNEL25"><font color="red">SUBSCRIBE</font>
 </h4>
-<h4><font size="2"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
+<h4><font size="2"><a href="https://www.instagram.com/boru.to4484"><font color="purple">FOLLOW INSTAGRAM</font>
 </h4>
-<h4><font size="2"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
+<h4><font size="2"><a href="https://t.me/haikal857"><font color="blue">TELEGRAM</font>          
 </p>
 </p>
 <a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
@@ -26,7 +26,7 @@
 </p>
 <p align="center">
 </p>
-- My Name Haikal
+- My Name FJ
 </p>
 - Hello All 👋
 <br>
@@ -56,6 +56,8 @@ pkg install yarn
 yarn
 npm install
 npm start
+
+tidak disarankan menggunakan termux
 ```
 
 > ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
